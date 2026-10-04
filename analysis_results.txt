@@ -1,0 +1,3 @@
+Protocols: Counter({'SSHv2': 241, 'TCP': 31})
+Sources: Counter({'192.168.56.10': 137, '192.168.56.20': 135})
+Destinations: Counter({'192.168.56.20': 137, '192.168.56.10': 135})
